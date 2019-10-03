@@ -1,2 +1,2 @@
-# pinball2
-sorry this is bad
+# unfinished pinbal
+ unfinished project
